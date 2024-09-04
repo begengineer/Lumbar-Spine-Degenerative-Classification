@@ -6,3 +6,7 @@ URL
 https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-training-baseline
 
 画像を上下とかにしてかさましする
+
+9月4日
+https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
+上記を参考にしたい
