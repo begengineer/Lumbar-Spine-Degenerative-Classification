@@ -12,4 +12,4 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 上記を参考にしたい
 
 こっちは簡単なベースライン？
-https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
+[https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet](https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-making-dataset)
