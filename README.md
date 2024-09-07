@@ -22,4 +22,4 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
 
 現在参考にしているベースライン
-https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
+https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
