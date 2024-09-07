@@ -15,5 +15,11 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 [https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet](https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-making-dataset)
 
 9月7日
+
+
+
 事前学習モデル作成ガイドライン
+https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
+
+現在参考にしているベースライン
 https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
