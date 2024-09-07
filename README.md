@@ -23,3 +23,9 @@ https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/noteboo
 
 現在参考にしているベースライン
 https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
+
+
+9月8日
+
+
+resnet50で試してみる
