@@ -42,4 +42,4 @@ submit20240908 Ver5でresnet50dの5fold学習モデルをsubmit
 densenet201 ver8で5fold学習モデルをsubmit
 →0.61かなり高い
 
-次は10fold分回してみたいため、google colab上で実行できるように環境を整える
+VGG-19で試してみたい
