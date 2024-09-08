@@ -33,3 +33,9 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
 
 
 resnet50で試してみる
+
+9月9日
+
+submit20240908 Ver5でresnet50dの5fold学習モデルをsubmit
+精度は0.7ちょっと下がった
+次は10fold分回してみたいため、google colab上で実行できるように環境を整える
