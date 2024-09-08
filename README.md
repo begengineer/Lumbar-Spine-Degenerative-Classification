@@ -21,7 +21,7 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 事前学習モデル作成ガイドライン
 https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
 
-推論中にtorch.sigmoid()関数を適用する必要があるらしい
+・推論中にtorch.sigmoid()関数を適用する必要があるらしい
 
 現在参考にしているベースライン
 https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
