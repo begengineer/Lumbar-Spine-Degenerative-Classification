@@ -22,6 +22,8 @@ https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook#Save
 
 ・推論中にtorch.sigmoid()関数を適用する必要があるらしい
+・事前学習モデルを適用するときは以下のchatGPTのコードサンプルを見てほしい。
+→学習済みモデルを現在のNotebookに適用する方法とtorch.sigmoid()の適用方法
 
 現在参考にしているベースライン
 https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
